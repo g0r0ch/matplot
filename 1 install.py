@@ -11,7 +11,7 @@ plt.show()
 
 # base graph elements:
 
-# Figure(aka kanwas)
+# Figure(aka canvas)
 # Axes
 # Grid
 # x_min x_max X axis label
