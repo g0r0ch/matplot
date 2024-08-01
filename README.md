@@ -25,7 +25,7 @@ The main components of the graph are: Figure, Axes, Legend, Grid, Artist.
     set(), set_xlim(), set_ylim(), xlim() and ylim().
     We control the position of labels on coordinate axes using the methods: set_major_locator() and set_minor_locator(),
     using the following classes of locators: Nullocator, LinearLocator, MultipleLocator, IndexLocator,
-    FixedLocator, LogLocator, MaxNLocator.
+    FixedLocator, LogLocator, MaxNLocator
 
 
 
