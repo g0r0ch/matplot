@@ -33,7 +33,10 @@ The main components of the graph are: Figure, Axes, Legend, Grid, Artist.
   The set_major_formatter() method for assigning a coordinate axis formatter.
 
 
-
+6.Axes coord log scale
+  display graphs on a logarithmic scale. Get acquainted with the semilogx() and semilogy() functions,
+  the set_xscale() and set_yscale() methods and their parameters: 'linear', 'log', 'symlog', 
+  as well as named parameters: base, subs, linthresh, linscale. The loglog() function
 
 
 
