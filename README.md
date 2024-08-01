@@ -18,8 +18,14 @@ The main components of the graph are: Figure, Axes, Legend, Grid, Artist.
    The functions subplot() and subplots() are considered.
    A way to create an additional window using the figure() function and place coordinate axes in it 
    (methods: add_axes() and add_subplot()). Learn about the GridSpec class
-   for convenient layout of coordinate axes spanning multiple cells.
+   for convenient layout of coordinate axes spanning multiple cells
 
+4.Axes limits
+    Set boundaries (limits) when displaying graphs along axes using the functions and methods: 
+    set(), set_xlim(), set_ylim(), xlim() and ylim().
+    We control the position of labels on coordinate axes using the methods: set_major_locator() and set_minor_locator(),
+    using the following classes of locators: Nullocator, LinearLocator, MultipleLocator, IndexLocator,
+    FixedLocator, LogLocator, MaxNLocator.
 
 
 
