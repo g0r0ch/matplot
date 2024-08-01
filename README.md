@@ -48,7 +48,9 @@ The main components of the graph are: Figure, Axes, Legend, Grid, Artist.
   You will learn how to draw geometric shapes directly on the graph. Classes: 
   Line2D, Rectangle, Arc, Arrow, Circle, CirclePolygon, Ellipse, FancyBboxPatch, PathPatch, Polygon, Wedge.
 
-
+9.Step, stack, stem and dot graphs
+  How to draw step, stack, stem and dot graphs. The functions are considered: step(), stem(), stackplot(), scatter(). 
+  A list of their parameters and design examples are provided.
 
 
 
