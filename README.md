@@ -27,6 +27,11 @@ The main components of the graph are: Figure, Axes, Legend, Grid, Artist.
     using the following classes of locators: Nullocator, LinearLocator, MultipleLocator, IndexLocator,
     FixedLocator, LogLocator, MaxNLocator
 
+5.Displaying labels format
+  Displaying labels  axes format using the set_xticklabels(), set_yticklabels() methods,
+  as well as the following formatters: NullFormatter, FormatStrFormatter, FuncFormatter, FixedFormatter.
+  The set_major_formatter() method for assigning a coordinate axis formatter.
+
 
 
 
