@@ -43,6 +43,11 @@ The main components of the graph are: Figure, Axes, Legend, Grid, Artist.
   annotate(). Properties for the design of text elements: alpha, backgroundcolor, color, fontsize, fontweight, position,
   visible and others. For more information about them, see the documentation.
 
+8.Legend and draw geometric shapes on the graphs
+  How to add a legend for graphs and create its design using the legend() method. 
+  You will learn how to draw geometric shapes directly on the graph. Classes: 
+  Line2D, Rectangle, Arc, Arrow, Circle, CirclePolygon, Ellipse, FancyBboxPatch, PathPatch, Polygon, Wedge.
+
 
 
 
