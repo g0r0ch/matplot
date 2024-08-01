@@ -38,7 +38,10 @@ The main components of the graph are: Figure, Axes, Legend, Grid, Artist.
   the set_xscale() and set_yscale() methods and their parameters: 'linear', 'log', 'symlog', 
   as well as named parameters: base, subs, linthresh, linscale. The loglog() function
 
-
+7.Standard text elements
+  The methods are considered: grid(), figtext(), suptitle(), set_xlabel(), set_ylabel(), xlabel(), ylabel(), text(),
+  annotate(). Properties for the design of text elements: alpha, backgroundcolor, color, fontsize, fontweight, position,
+  visible and others. For more information about them, see the documentation.
 
 
 
